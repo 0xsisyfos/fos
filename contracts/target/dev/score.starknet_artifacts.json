@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"kv5h9dk3c2b1s","package_name":"score","contract_name":"FlappyBirdGame","module_path":"score::FlappyBirdGame","artifacts":{"sierra":"score_FlappyBirdGame.contract_class.json","casm":"score_FlappyBirdGame.compiled_contract_class.json"}}]}
