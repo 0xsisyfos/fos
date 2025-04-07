@@ -2,15 +2,11 @@
 
 A retro-style Flappy Bird game built on the Starknet blockchain, featuring on-chain leaderboards and score tracking.
 
-![Game Screenshot](public/screenshot.png)
-
 ## Features
 
 - Classic Flappy Bird gameplay with retro aesthetics
 - On-chain score tracking using Starknet
 - Leaderboard system to track high scores
-- Retro Windows-style UI with pixel-perfect design
-- Sound effects and smooth animations
 
 ## Tech Stack
 
